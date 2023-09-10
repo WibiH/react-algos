@@ -13,7 +13,7 @@ code {
 }
 
 .IdCard,
-.Greetings {
+.Greetings .Random {
   border: 1px solid gray;
   margin: 16px;
   padding: 8px;
