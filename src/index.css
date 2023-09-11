@@ -13,7 +13,9 @@ code {
 }
 
 .IdCard,
-.Greetings .Random {
+.Greetings,
+.Random,
+.BoxColor {
   border: 1px solid gray;
   margin: 16px;
   padding: 8px;
