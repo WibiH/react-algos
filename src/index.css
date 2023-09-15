@@ -23,3 +23,9 @@ code {
   gap: 32px;
   line-height: 0;
 }
+
+.allCreditCards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
