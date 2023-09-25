@@ -29,3 +29,7 @@ code {
   flex-direction: row;
   justify-content: space-between;
 }
+
+.DriverCard {
+  margin: 10px;
+}
